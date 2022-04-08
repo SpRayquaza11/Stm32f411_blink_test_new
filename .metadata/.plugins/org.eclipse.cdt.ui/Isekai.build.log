@@ -1,0 +1,10 @@
+18:42:07 **** Incremental Build of configuration Debug for project Isekai ****
+make -j8 all 
+arm-none-eabi-size   Isekai.elf 
+   text	   data	    bss	    dec	    hex	filename
+  32008	    152	   3672	  35832	   8bf8	Isekai.elf
+Finished building: default.size.stdout
+ 
+
+18:42:08 Build Finished. 0 errors, 0 warnings. (took 596ms)
+
